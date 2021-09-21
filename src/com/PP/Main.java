@@ -8,7 +8,8 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(RomanToInteger.romanToInt("MMMDDDIIIV"));
+        String[] strings = {"flower","flower","flower","flower"};
+        System.out.println(LongestCommonPrefix.LongestPrefix(strings));
     }
 
 
