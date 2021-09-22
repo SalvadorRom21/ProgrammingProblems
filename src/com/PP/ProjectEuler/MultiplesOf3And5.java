@@ -24,4 +24,7 @@ public class MultiplesOf3And5 {
 Solution to solve this problem we will create a for loop that will check if the number is a multiple of 3 or 5.
 We do this by checking if the number that is being produced by a mod is 0 for either 3 or 5.
 If the number meets either of those requirements then we will add it to the sum and continue to the next number.
+
+This will take Time complexity of O(n) where n is the number of the maxNumber.
+This will also Take Space complexity of O(1) no new data structure is made.
  */

@@ -10,7 +10,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        int num = MultiplesOf3And5.sumOfMultiples(1000);
-        System.out.println(num);
+     Long sum = LargestPrimeFactor.largetstPrime(600851475143L);
+     System.out.println(sum);
     }
 }
