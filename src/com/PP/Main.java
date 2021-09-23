@@ -10,7 +10,6 @@ public class Main {
 
 
     public static void main(String[] args) {
-     Long sum = LargestPrimeFactor.largetstPrime(600851475143L);
-     System.out.println(sum);
+        LargestPalindromeProduct.multiply();
     }
 }
