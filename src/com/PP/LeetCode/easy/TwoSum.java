@@ -4,7 +4,7 @@ You may assume that each input would have exactly one solution, and you may not 
 You can return the answer in any order.
  */
 
-package com.PP.easy;
+package com.PP.LeetCode.easy;
 
 import java.util.HashMap;
 import java.util.Map;

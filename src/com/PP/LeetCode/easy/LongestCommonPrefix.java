@@ -3,7 +3,7 @@ Write a function to find the longest common prefix string amongst an array of st
 If there is no common prefix, return an empty string "".
  */
 
-package com.PP.easy;
+package com.PP.LeetCode.easy;
 
 import java.util.Arrays;
 
